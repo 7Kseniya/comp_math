@@ -1,6 +1,7 @@
 package lab4;
 
 import static java.lang.StrictMath.*;
+import java.util.function.Function;
 
 
 class TrapezoidalIntegration {
